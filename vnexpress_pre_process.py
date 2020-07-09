@@ -1,6 +1,6 @@
 import jsonlines
 import os
-from . import file_path
+import file_path
 
 Vnexpress_infile = file_path.Vnexpress
 Vnexpress_data = file_path.Vnexpress_data

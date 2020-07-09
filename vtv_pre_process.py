@@ -1,5 +1,5 @@
 import jsonlines
-from . import file_path
+import file_path
 from langdetect import detect
 import os.path
 
