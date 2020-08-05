@@ -1,0 +1,2 @@
+﻿merge all file on windows
+copy /b *.json newfile.txt
