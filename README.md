@@ -1,9 +1,9 @@
 # Category_classification
- Vietnamese news classification based on their category
+## Vietnamese news classification based on their category
 
  
 
-group similar category from different news, change category to general category<br/>
+group similar category, change category to general category<br/>
 all category in list become category[0]
 ```
 [['thế giới', 'thế giới đó đây'],
@@ -17,7 +17,8 @@ all category in list become category[0]
 ['giáo dục', 'giáo dục - khuyến học', 'tuyển sinh', 'góc phụ huynh'],
 ['đời sống', 'gia đình', 'tấm lòng nhân ái', 'chuyện lạ', 'tấm lòng việt'],
 ['công nghệ', 'sức mạnh số', 'khoa học - công nghệ', 'khoa học', 'tin công nghệ', 'sản phẩm'],
-['ô tô - xe máy', 'xe'], ['cần biết', 'bạn cần biết'],
+['ô tô - xe máy', 'xe'],
+['cần biết', 'bạn cần biết'],
 ['bạn đọc', 'góc khán giả'],
 ['du lịch', 'khám phá'],
 ['truyền hình'],
@@ -27,7 +28,7 @@ all category in list become category[0]
 ```
 
 
-## selected category
+### selected category
 ```
 159153 thế giới
 156206 văn hóa - giải trí
