@@ -1,0 +1,3 @@
+﻿run json_raw_to_general_category to get generalize category data
+merge all json file created from json_raw_to_general_category to one
+run get_balance_data to get 100k max records of each category with the merged file

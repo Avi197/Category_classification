@@ -43,6 +43,22 @@ Vnexpress_not_token = 'H:/Vietnamese word representations/Category_classificatio
 Vnn_not_token = 'H:/Vietnamese word representations/Category_classification_data/formatted_data/vnn_not_token.json'
 Vtv_not_token = 'H:/Vietnamese word representations/Category_classification_data/formatted_data/vtv_not_token.json'
 
+# generalize categories
+Vnn_g_category = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/g_category_json/vnn.json'
+Vnexpress_g_category = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/g_category_json/vnexpress.json'
+Thanhnien_g_category = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/g_category_json/thanhnien.json'
+Dantri_g_category = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/g_category_json/dantri.json'
+Tuoitre_g_category = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/g_category_json/tuoitre.json'
+Vtv_g_category = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/g_category_json/vtv.json'
+
+# generalize categories text file
+Vnn_g_category_text = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/vnn.txt'
+Vnexpress_g_category_text = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/vnexpress.txt'
+Thanhnien_g_category_text = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/thanhnien.txt'
+Dantri_g_category_text = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/dantri.txt'
+Tuoitre_g_category_text = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/tuoitre.txt'
+Vtv_g_category_text = 'H:/Vietnamese word representations/Category_classification_data/generalize_category/vtv.txt'
+
 # text data
 # ---------
 # windows
@@ -79,5 +95,8 @@ Vnexpress_tokenized = '/home/pham/NLU/text data/Vnexpress/vnexpress_tokenized.tx
 Vnn_tokenized = '/home/pham/NLU/text data/Vnn/vnn_tokenized.txt'
 Vtv_tokenized = '/home/pham/NLU/text data/Vtv/vtv_tokenized.txt'
 # ---------
+
+
+
 
 Data_not_tokenized = '"H:/Vietnamese word representations/Category_classification_data/newfile.txt"'
